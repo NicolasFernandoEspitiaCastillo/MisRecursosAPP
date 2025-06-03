@@ -1,0 +1,15 @@
+{
+    "_id": {
+      "$oid": "683f2a4b56412e25c61f7ef0"
+    },
+    "nombreDelRecurso": "Vengadores",
+    "genero": "Acción",
+    "plataforma": "Netflix",
+    "estado": "Terminado",
+    "formato": "Pelicula",
+    "fechaDeTerminacion": {
+      "$date": "2025-03-06T05:00:00.000Z"
+    },
+    "valoracionFinal": " 5 estrellas",
+    "reseñaPersonal": "Lo mejor del mundo"
+  }
