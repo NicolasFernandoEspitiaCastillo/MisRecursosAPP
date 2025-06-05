@@ -19,6 +19,29 @@ Se necesita crear una aplicación web que permita a los usuarios llevar un regis
 - **Actualizar:** Permitir al usuario modificar los detalles de un recurso existente.
 - **Eliminar:** Permitir al usuario eliminar un recurso.
 
+## Respuesta: 
+
+La funcionalidad **Crear** 
+    
+        db.recursos.insertOne({})
+        db.recursos.insertMany([{},{},{}])
+
+La funcionalidad **Leer**
+
+        db.recursos.find()
+
+La funcionalidad **Actualizar**
+
+        db.recursos.updateOne(
+        { nombreDelRecurso: "Dune" },
+        { $set: { estado: "Terminado", fechaDeTerminacion: ISODate("2025-06-01"), valoracionFinal: 4,       reseña: "Muy interesante" } }
+        )
+
+La funcionalidad **Eliminar**
+
+        db.recursos.deleteOne({ nombreDelRecurso: "Dune" })
+
+
 ## **Filtros y Búsqueda:**
 
 - Implementar un sistema de filtros para que el usuario pueda ver sus recursos por:
@@ -26,6 +49,28 @@ Se necesita crear una aplicación web que permita a los usuarios llevar un regis
     - Formato (Ej. Serie, Película, Libro).
     - Plataforma (Ej. Netflix, Amazon, etc.).
 - Incluir una barra de búsqueda para encontrar un recurso por su nombre.
+
+# Respuesta: 
+
+Esta sección muestra cómo realizar consultas específicas a la colección recursos para permitir filtros y búsquedas en la aplicación.
+
+🔸 Buscar por estado:
+
+        db.recursos.find({ estado: "Terminado" })
+
+🔸 Buscar por formato:
+
+        db.recursos.find({ formato: "Libro" })
+
+🔸 Buscar por plataforma:
+
+        db.recursos.find({ plataforma: "Netflix" })
+
+🔸 Buscar por nombre del recurso (similar a una barra de búsqueda en frontend)
+
+        db.recursos.find({ nombreDelRecurso: { $regex: "witcher", $options: "i" } })
+
+📝 Esta búsqueda es insensible a mayúsculas/minúsculas gracias a la opción "i" y encuentra coincidencias parciales con el nombre del recurso.
 
 ## **Validación de Datos (No aplica):**
 

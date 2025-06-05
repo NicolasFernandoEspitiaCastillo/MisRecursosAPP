@@ -10,6 +10,98 @@
     "fechaDeTerminacion": {
       "$date": "2025-03-06T05:00:00.000Z"
     },
-    "valoracionFinal": " 5 estrellas",
-    "reseñaPersonal": "Lo mejor del mundo"
+    "valoracionFinal": " 5",
+    "reseña": "Lo mejor del mundo"
   }
+
+{
+    "_id": {
+      "$oid": "6841b08fcb263fdf90c65434"
+    },
+    "nombreDelRecurso": "Breaking Bad",
+    "genero": "Drama",
+    "plataforma": "Amazon Prime",
+    "estado": "Terminado",
+    "formato": "Serie",
+    "fechaDeTerminacion": {
+      "$date": "2025-04-06T05:00:00.000Z"
+    },
+    "valoracionFinal": "4",
+    "reseña": "Una serie muy entretenida"
+  }
+
+{
+  "_id": {
+    "$oid": "6841b1e1cb263fdf90c65435"
+  },
+  "nombreDelRecurso": "Dune",
+  "genero": "ciencia ficción",
+  "plataforma": "Kindle",
+  "estado": "En proceso",
+  "formato": "Libro"
+}
+
+{
+  "_id": {
+    "$oid": "6841b708cb263fdf90c65436"
+  },
+  "nombreDelRecurso": "The Witcher",
+  "genero": "fantasía",
+  "plataforma": "Netflix",
+  "estado": "En proceso",
+  "formato": "Serie"
+}
+
+{
+  "_id": {
+    "$oid": "6841b708cb263fdf90c65437"
+  },
+  "nombreDelRecurso": "El Padrino",
+  "genero": "crimen",
+  "plataforma": "HBO Max",
+  "estado": "En proceso",
+  "formato": "Pelicula"
+}
+
+{
+  "_id": {
+    "$oid": "6841b708cb263fdf90c65438"
+  },
+  "nombreDelRecurso": "Stranger Things",
+  "genero": "suspenso/ciencia ficción",
+  "plataforma": "Netflix",
+  "estado": "Terminado",
+  "formato": "Serie",
+  "fechaDeTerminacion": {
+    "$date": "2025-02-06T05:00:00.000Z"
+  },
+  "valoracionFinal": "5",
+  "reseña": "Todas las temporadas me gustaron"
+}
+
+{
+  "_id": {
+    "$oid": "6841b708cb263fdf90c65439"
+  },
+  "nombreDelRecurso": "Harry Potter y la piedra filosofal",
+  "genero": "fantasía",
+  "plataforma": "Kindle",
+  "estado": "En proceso",
+  "formato": "Libro"
+}
+
+{
+  "_id": {
+    "$oid": "6841b708cb263fdf90c6543a"
+  },
+  "nombreDelRecurso": "Interstellar",
+  "genero": "ciencia ficción",
+  "plataforma": "Max",
+  "estado": "Terminado",
+  "formato": "Pelicula",
+  "fechaDeTerminacion": {
+    "$date": "2025-01-06T05:00:00.000Z"
+  },
+  "valoracionFinal": "5",
+  "reseña": "Sinceramente esta pelicula es la mejor de todas"
+}
