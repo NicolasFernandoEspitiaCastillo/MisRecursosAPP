@@ -105,3 +105,583 @@
   "valoracionFinal": "5",
   "reseña": "Sinceramente esta pelicula es la mejor de todas"
 }
+
+{
+  "_id": {
+    "$oid": "68427c95cb263fdf90c6543b"
+  },
+  "nombreDelRecurso": "Inception",
+  "genero": "Ciencia ficción",
+  "plataforma": "Netflix",
+  "estado": "Terminado",
+  "formato": "Pelicula",
+  "fechaDeTerminacion": {
+    "$date": "2025-02-10T05:00:00.000Z"
+  },
+  "valoracionFinal": 5,
+  "reseña": "Una obra maestra del cine moderno"
+}
+
+{
+  "_id": {
+    "$oid": "68427c95cb263fdf90c6543c"
+  },
+  "nombreDelRecurso": "The Mandalorian",
+  "genero": "Fantasía / Ciencia ficción",
+  "plataforma": "Disney+",
+  "estado": "Terminado",
+  "formato": "Serie",
+  "fechaDeTerminacion": {
+    "$date": "2025-03-01T05:00:00.000Z"
+  },
+  "valoracionFinal": 4,
+  "reseña": "Muy entretenida y visualmente impactante"
+}
+
+{
+  "_id": {
+    "$oid": "68427c95cb263fdf90c6543d"
+  },
+  "nombreDelRecurso": "1984",
+  "genero": "Distopía",
+  "plataforma": "Libro físico",
+  "estado": "Terminado",
+  "formato": "Libro",
+  "fechaDeTerminacion": {
+    "$date": "2024-11-15T05:00:00.000Z"
+  },
+  "valoracionFinal": 5,
+  "reseña": "Oscuro, profundo y muy relevante"
+}
+
+{
+  "_id": {
+    "$oid": "68427c95cb263fdf90c6543e"
+  },
+  "nombreDelRecurso": "El Señor de los Anillos: La Comunidad del Anillo",
+  "genero": "Fantasía",
+  "plataforma": "HBO Max",
+  "estado": "Terminado",
+  "formato": "Pelicula",
+  "fechaDeTerminacion": {
+    "$date": "2025-04-03T05:00:00.000Z"
+  },
+  "valoracionFinal": 5,
+  "reseña": "Un inicio épico para una trilogía legendaria"
+}
+
+{
+  "_id": {
+    "$oid": "68427c95cb263fdf90c6543f"
+  },
+  "nombreDelRecurso": "Sherlock",
+  "genero": "Misterio / Crimen",
+  "plataforma": "Netflix",
+  "estado": "Terminado",
+  "formato": "Serie",
+  "fechaDeTerminacion": {
+    "$date": "2024-10-12T05:00:00.000Z"
+  },
+  "valoracionFinal": 5,
+  "reseña": "Brillante adaptación moderna de un clásico"
+}
+
+{
+  "_id": {
+    "$oid": "68427c95cb263fdf90c65440"
+  },
+  "nombreDelRecurso": "La chica del tren",
+  "genero": "Thriller psicológico",
+  "plataforma": "Kindle",
+  "estado": "Terminado",
+  "formato": "Libro",
+  "fechaDeTerminacion": {
+    "$date": "2025-01-20T05:00:00.000Z"
+  },
+  "valoracionFinal": 4,
+  "reseña": "Te mantiene atrapado hasta el final"
+}
+
+{
+  "_id": {
+    "$oid": "68427c95cb263fdf90c65441"
+  },
+  "nombreDelRecurso": "Avatar",
+  "genero": "Ciencia ficción / Aventura",
+  "plataforma": "Disney+",
+  "estado": "Terminado",
+  "formato": "Pelicula",
+  "fechaDeTerminacion": {
+    "$date": "2025-02-25T05:00:00.000Z"
+  },
+  "valoracionFinal": 4,
+  "reseña": "Visualmente impresionante, historia sencilla"
+}
+
+{
+  "_id": {
+    "$oid": "68427c95cb263fdf90c65442"
+  },
+  "nombreDelRecurso": "El código Da Vinci",
+  "genero": "Misterio / Aventura",
+  "plataforma": "Libro físico",
+  "estado": "Terminado",
+  "formato": "Libro",
+  "fechaDeTerminacion": {
+    "$date": "2024-09-07T05:00:00.000Z"
+  },
+  "valoracionFinal": 5,
+  "reseña": "Intrigante, rápido y lleno de giros"
+}
+
+{
+  "_id": {
+    "$oid": "68427c95cb263fdf90c65443"
+  },
+  "nombreDelRecurso": "Black Mirror",
+  "genero": "Ciencia ficción / Distopía",
+  "plataforma": "Netflix",
+  "estado": "En progreso",
+  "formato": "Serie",
+  "fechaDeTerminacion": {
+    "$date": "2025-06-10T05:00:00.000Z"
+  },
+  "valoracionFinal": "Pendiente",
+  "reseña": "Cada episodio es una experiencia única"
+}
+
+{
+  "_id": {
+    "$oid": "68427c95cb263fdf90c65444"
+  },
+  "nombreDelRecurso": "Los juegos del hambre",
+  "genero": "Distopía / Aventura",
+  "plataforma": "Prime Video",
+  "estado": "Terminado",
+  "formato": "Pelicula",
+  "fechaDeTerminacion": {
+    "$date": "2025-05-12T05:00:00.000Z"
+  },
+  "valoracionFinal": 4,
+  "reseña": "Buena adaptación con mucho suspenso"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c65445"
+  },
+  "nombreDelRecurso": "Dark",
+  "genero": "Ciencia ficción / Misterio",
+  "plataforma": "Netflix",
+  "estado": "Terminado",
+  "formato": "Serie",
+  "fechaDeTerminacion": {
+    "$date": "2024-12-30T05:00:00.000Z"
+  },
+  "valoracionFinal": 5,
+  "reseña": "Una historia enredada pero brillante"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c65446"
+  },
+  "nombreDelRecurso": "La sombra del viento",
+  "genero": "Misterio / Drama",
+  "plataforma": "Libro físico",
+  "estado": "Terminado",
+  "formato": "Libro",
+  "fechaDeTerminacion": {
+    "$date": "2025-01-15T05:00:00.000Z"
+  },
+  "valoracionFinal": 5,
+  "reseña": "Increíblemente atrapante"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c65447"
+  },
+  "nombreDelRecurso": "The Boys",
+  "genero": "Acción / Superhéroes",
+  "plataforma": "Prime Video",
+  "estado": "En proceso",
+  "formato": "Serie"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c65449"
+  },
+  "nombreDelRecurso": "Ready Player One",
+  "genero": "Aventura / Ciencia ficción",
+  "plataforma": "Kindle",
+  "estado": "Terminado",
+  "formato": "Libro",
+  "fechaDeTerminacion": {
+    "$date": "2025-02-10T05:00:00.000Z"
+  },
+  "valoracionFinal": 4,
+  "reseña": "Divertido y nostálgico"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c6544a"
+  },
+  "nombreDelRecurso": "The Office",
+  "genero": "Comedia",
+  "plataforma": "Netflix",
+  "estado": "Terminado",
+  "formato": "Serie",
+  "fechaDeTerminacion": {
+    "$date": "2024-08-14T05:00:00.000Z"
+  },
+  "valoracionFinal": 5,
+  "reseña": "Genial para reír sin parar"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c6544b"
+  },
+  "nombreDelRecurso": "Matrix",
+  "genero": "Ciencia ficción / Acción",
+  "plataforma": "HBO Max",
+  "estado": "Terminado",
+  "formato": "Pelicula",
+  "fechaDeTerminacion": {
+    "$date": "2025-03-25T05:00:00.000Z"
+  },
+  "valoracionFinal": 5,
+  "reseña": "Un clásico moderno"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c6544c"
+  },
+  "nombreDelRecurso": "Percy Jackson y el ladrón del rayo",
+  "genero": "Fantasía / Aventura",
+  "plataforma": "Kindle",
+  "estado": "En proceso",
+  "formato": "Libro"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c6544d"
+  },
+  "nombreDelRecurso": "Mindhunter",
+  "genero": "Crimen / Suspenso",
+  "plataforma": "Netflix",
+  "estado": "Terminado",
+  "formato": "Serie",
+  "fechaDeTerminacion": {
+    "$date": "2024-10-01T05:00:00.000Z"
+  },
+  "valoracionFinal": 4,
+  "reseña": "Intenso y psicológico"
+} 
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c6544e"
+  },
+  "nombreDelRecurso": "House of the Dragon",
+  "genero": "Fantasía / Drama",
+  "plataforma": "HBO Max",
+  "estado": "En proceso",
+  "formato": "Serie"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c6544f"
+  },
+  "nombreDelRecurso": "El marciano",
+  "genero": "Ciencia ficción",
+  "plataforma": "Libro físico",
+  "estado": "Terminado",
+  "formato": "Libro",
+  "fechaDeTerminacion": {
+    "$date": "2024-12-10T05:00:00.000Z"
+  },
+  "valoracionFinal": 5,
+  "reseña": "Ingenioso y emocionante"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c65450"
+  },
+  "nombreDelRecurso": "Better Call Saul",
+  "genero": "Drama / Crimen",
+  "plataforma": "Netflix",
+  "estado": "Terminado",
+  "formato": "Serie",
+  "fechaDeTerminacion": {
+    "$date": "2025-03-01T05:00:00.000Z"
+  },
+  "valoracionFinal": 5,
+  "reseña": "Excelente precuela"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c65451"
+  },
+  "nombreDelRecurso": "Narcos",
+  "genero": "Crimen / Drama",
+  "plataforma": "Netflix",
+  "estado": "Terminado",
+  "formato": "Serie",
+  "fechaDeTerminacion": {
+    "$date": "2025-01-28T05:00:00.000Z"
+  },
+  "valoracionFinal": 4,
+  "reseña": "Muy intensa"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c65452"
+  },
+  "nombreDelRecurso": "La casa de papel",
+  "genero": "Acción / Drama",
+  "plataforma": "Netflix",
+  "estado": "Terminado",
+  "formato": "Serie",
+  "fechaDeTerminacion": {
+    "$date": "2025-02-12T05:00:00.000Z"
+  },
+  "valoracionFinal": 3,
+  "reseña": "Algo repetitiva pero buena"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c65453"
+  },
+  "nombreDelRecurso": "El alquimista",
+  "genero": "Ficción / Filosofía",
+  "plataforma": "Kindle",
+  "estado": "En proceso",
+  "formato": "Libro"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c65454"
+  },
+  "nombreDelRecurso": "Arcane",
+  "genero": "Fantasía / Animación",
+  "plataforma": "Netflix",
+  "estado": "Terminado",
+  "formato": "Serie",
+  "fechaDeTerminacion": {
+    "$date": "2024-11-20T05:00:00.000Z"
+  },
+  "valoracionFinal": 5,
+  "reseña": "Visualmente increíble"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c65455"
+  },
+  "nombreDelRecurso": "Cyberpunk: Edgerunners",
+  "genero": "Ciencia ficción / Animación",
+  "plataforma": "Netflix",
+  "estado": "Terminado",
+  "formato": "Serie",
+  "fechaDeTerminacion": {
+    "$date": "2025-04-05T05:00:00.000Z"
+  },
+  "valoracionFinal": 5,
+  "reseña": "Corta pero poderosa"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c65456"
+  },
+  "nombreDelRecurso": "Invincible",
+  "genero": "Animación / Superhéroes",
+  "plataforma": "Prime Video",
+  "estado": "En proceso",
+  "formato": "Serie"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c65457"
+  },
+  "nombreDelRecurso": "Fundación",
+  "genero": "Ciencia ficción",
+  "plataforma": "Apple TV+",
+  "estado": "En proceso",
+  "formato": "Serie"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c65458"
+  },
+  "nombreDelRecurso": "Crónica de una muerte anunciada",
+  "genero": "Drama",
+  "plataforma": "Libro físico",
+  "estado": "Terminado",
+  "formato": "Libro",
+  "fechaDeTerminacion": {
+    "$date": "2024-09-12T05:00:00.000Z"
+  },
+  "valoracionFinal": 4,
+  "reseña": "Breve pero contundente"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c65459"
+  },
+  "nombreDelRecurso": "El caballero oscuro",
+  "genero": "Acción / Superhéroes",
+  "plataforma": "HBO Max",
+  "estado": "Terminado",
+  "formato": "Pelicula",
+  "fechaDeTerminacion": {
+    "$date": "2025-05-01T05:00:00.000Z"
+  },
+  "valoracionFinal": 5,
+  "reseña": "La mejor de Batman"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c6545a"
+  },
+  "nombreDelRecurso": "Black Clover",
+  "genero": "Anime / Fantasía",
+  "plataforma": "Crunchyroll",
+  "estado": "En proceso",
+  "formato": "Serie"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c6545b"
+  },
+  "nombreDelRecurso": "Shingeki no Kyojin",
+  "genero": "Anime / Acción",
+  "plataforma": "Crunchyroll",
+  "estado": "Terminado",
+  "formato": "Serie",
+  "fechaDeTerminacion": {
+    "$date": "2024-11-01T05:00:00.000Z"
+  },
+  "valoracionFinal": 5,
+  "reseña": "Épico final"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c6545c"
+  },
+  "nombreDelRecurso": "Spy x Family",
+  "genero": "Anime / Comedia",
+  "plataforma": "Crunchyroll",
+  "estado": "En proceso",
+  "formato": "Serie"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c6545d"
+  },
+  "nombreDelRecurso": "Naruto",
+  "genero": "Anime / Aventura",
+  "plataforma": "Crunchyroll",
+  "estado": "Terminado",
+  "formato": "Serie",
+  "fechaDeTerminacion": {
+    "$date": "2024-07-15T05:00:00.000Z"
+  },
+  "valoracionFinal": 4,
+  "reseña": "Largo pero vale la pena"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c6545e"
+  },
+  "nombreDelRecurso": "JoJo's Bizarre Adventure",
+  "genero": "Anime / Acción",
+  "plataforma": "Netflix",
+  "estado": "En proceso",
+  "formato": "Serie"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c6545f"
+  },
+  "nombreDelRecurso": "One Piece",
+  "genero": "Anime / Aventura",
+  "plataforma": "Crunchyroll",
+  "estado": "En proceso",
+  "formato": "Serie"
+} 
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c65460"
+  },
+  "nombreDelRecurso": "Demon Slayer",
+  "genero": "Anime / Fantasía",
+  "plataforma": "Crunchyroll",
+  "estado": "Terminado",
+  "formato": "Serie",
+  "fechaDeTerminacion": {
+    "$date": "2025-01-04T05:00:00.000Z"
+  },
+  "valoracionFinal": 5,
+  "reseña": "Una joya visual y emocional"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c65461"
+  },
+  "nombreDelRecurso": "Tokyo Revengers",
+  "genero": "Anime / Drama",
+  "plataforma": "Crunchyroll",
+  "estado": "En proceso",
+  "formato": "Serie"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c65462"
+  },
+  "nombreDelRecurso": "Chainsaw Man",
+  "genero": "Anime / Horror",
+  "plataforma": "Crunchyroll",
+  "estado": "Terminado",
+  "formato": "Serie",
+  "fechaDeTerminacion": {
+    "$date": "2025-02-15T05:00:00.000Z"
+  },
+  "valoracionFinal": 5,
+  "reseña": "Intenso y único"
+}
+
+{
+  "_id": {
+    "$oid": "6842804ecb263fdf90c65463"
+  },
+  "nombreDelRecurso": "Jujutsu Kaisen",
+  "genero": "Anime / Acción",
+  "plataforma": "Crunchyroll",
+  "estado": "En proceso",
+  "formato": "Serie"
+}
